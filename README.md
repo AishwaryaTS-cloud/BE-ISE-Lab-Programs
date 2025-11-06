@@ -6,10 +6,9 @@ The repository will be **continuously updated throughout all 4 years** of my eng
 
 ---
 
-![image.png](attachment:4b27b335-a7ce-4d42-9477-8d9661309bb7:image.png)
+![alt text](image.png)
 
 ---
-
 ## 🎯 Purpose of This Repository
 
 - To **document and track** my work throughout my engineering course.
@@ -38,8 +37,6 @@ License reference: https://choosealicense.com/licenses/mit/
 
 ### Connect with Me
 
-(Add your links below and remove this note.)
-
 | Platform | Link |
 | --- | --- |
 | LinkedIn | *(*https://www.linkedin.com/in/aishwarya-t-s-61b3b4354/*)* |
@@ -56,5 +53,3 @@ This repository will:
 - Include additional projects, assignments & notes over time
 
 Goal → Create a **complete academic + coding timeline** of my 4-year engineering journey.
-
----
